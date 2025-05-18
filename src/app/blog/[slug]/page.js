@@ -1,5 +1,4 @@
 import Image from "next/image";
-import { notFound } from "next/navigation";
 
 async function getRecipe(id) {
   try {
